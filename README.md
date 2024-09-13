@@ -5,18 +5,20 @@
 <div>
 <table>
     <tr>
-        <td/>
+        <td>
           
 **Getting Started**
+	</td>
         <td colspan=2>
             <li/> [Basic Project Setup](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Basic-project-setup)
             <li/> [Advanced Project Setup](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Advanced-Project-Setup)
 		    </td>
     </tr>
     <tr>
-        <td/>
+        <td>
         
 [**Builders**](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Build)
+	</td>
         <td>
             <li/> BattleDataBuilder
             <li/> BossRewardDataBuilder
@@ -39,13 +41,15 @@
             <li/> UnlockDataBuilder</td>
     </tr>
     <tr>
-        <td/>
+        <td>
     
 **Tutorials**
+	</td>
         <td colspan=2>
             <b/> Written Tutorials
             <li/> [0: Inspecting the Game Data [Mandatory]](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-0:-Inspecting-In-and-Out-of-the-Game)
             <li/> [1: Making a Basic Mod](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-1:-Making-a-Basic-Mod-(Gameplay-Modifier))
+	    <li/> [2: Making Cards and Effects](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-2:-Making-Cards-and-Status-Effects)
             <li/> [3: Making Charms and Keywords](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-3:-Making-Charms-and-Keywords)
             <li/> [4: Harmony Patching](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-4:-Patching-Methods)
             <li/> [5: Making a Tribe](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-5:-Creating-a-Tribe)
@@ -57,9 +61,10 @@
         </td>
     </tr>
     <tr>
-        <td/>
+        <td>
 
 **External Links**
+	</td>
         <td colspan=2>
             <li/> [Data References](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Vanilla-References)
             <li/> [Harmony Patching API](https://harmony.pardeike.net/articles/patching.html)
