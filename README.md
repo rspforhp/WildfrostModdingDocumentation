@@ -50,10 +50,11 @@
             <li/> [0: Inspecting the Game Data [Mandatory]](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-0:-Inspecting-In-and-Out-of-the-Game)
             <li/> [1: Making a Basic Mod](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-1:-Making-a-Basic-Mod-(Gameplay-Modifier))
 	    <li/> [2: Making Cards and Effects](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-2:-Making-Cards-and-Status-Effects)
+	    <ul><li/> [Making Status Icons <sub><sub><img width="20" alt="Fury" vertical-align: bottom src="https://github.com/user-attachments/assets/3834682d-31f4-47ea-9dce-6cb0b539f54b"></sub></sub>](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-2:-Making-Cards-and-Status-Effects)</ul>
             <li/> [3: Making Charms and Keywords](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-3:-Making-Charms-and-Keywords)
             <li/> [4: Harmony Patching](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-4:-Patching-Methods)
             <li/> [5: Making a Tribe](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-5:-Creating-a-Tribe)
-            <li/> [6: Using Addressables <img width="20" alt="Fury" vertical-align: bottom src="https://github.com/user-attachments/assets/3834682d-31f4-47ea-9dce-6cb0b539f54b">](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-6:-Using-Addressables)
+            <li/> [6: Using Addressables <sub><sub><img width="20" alt="Fury" vertical-align: bottom src="https://github.com/user-attachments/assets/3834682d-31f4-47ea-9dce-6cb0b539f54b"></sub></sub>](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-6:-Using-Addressables)
             <li/> [7: Making a Map Node](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-7:-Making-a-Map-Node)
             <br>
             <br>
@@ -74,6 +75,7 @@
     </tr>
 </table>
 </div>
+
 
 ***
 
