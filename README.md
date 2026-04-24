@@ -56,6 +56,7 @@
             <li/> [5: Making a Tribe](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-5:-Creating-a-Tribe)
             <li/> [6: Using Addressables <sub><sub><img width="20" alt="Fury" vertical-align: bottom src="https://github.com/user-attachments/assets/3834682d-31f4-47ea-9dce-6cb0b539f54b"></sub></sub>](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-6:-Using-Addressables)
             <li/> [7: Making a Map Node](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-7:-Making-a-Map-Node)
+			<li/> [8: TargetConstraints and ScriptableAmounts](https://github.com/rspforhp/WildfrostModdingDocumentation/wiki/Tutorial-8:-TargetConstraints-and-ScriptableAmounts)
             <br>
             <br>
             <b> Video Tutorials </b>
